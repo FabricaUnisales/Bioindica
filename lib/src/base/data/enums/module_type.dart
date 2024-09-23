@@ -1,0 +1,4 @@
+enum ModuleType {
+  authentication,
+  bio,
+}
